@@ -1,0 +1,143 @@
+/* Api */
+.nav-folder-title[data-path$="/api" i],
+.nav-folder-title[data-path="api" i] { color: #000000; background-color: #05d270; }
+
+/* Assembleur */
+.nav-folder-title[data-path$="/assembleur" i],
+.nav-folder-title[data-path="assembleur" i] { color: #000000; background-color: #6e4c13; }
+
+/* Bash */
+.nav-folder-title[data-path$="/bash" i],
+.nav-folder-title[data-path="bash" i] { color: #000000; background-color: #4eaa25; }
+
+/* C */
+.nav-folder-title[data-path$="/c" i],
+.nav-folder-title[data-path="c" i] { color: #000000; background-color: #659AD2; }
+
+/* C# */
+.nav-folder-title[data-path$="/c#" i],
+.nav-folder-title[data-path="c#" i] { color: #ffffff; background-color: #9179E4; }
+
+/* C++ */
+.nav-folder-title[data-path$="/c++" i],
+.nav-folder-title[data-path="c++" i] { color: #ffffff; background-color: #00599c; }
+
+/* Certbot */
+.nav-folder-title[data-path$="/certbot" i],
+.nav-folder-title[data-path="certbot" i] { color: #000000; background-color: #ef3b39; }
+
+/* Css */
+.nav-folder-title[data-path$="/css" i],
+.nav-folder-title[data-path="css" i] { color: #000000; background-color: #1572b6; }
+
+/* Docker */
+.nav-folder-title[data-path$="/docker" i],
+.nav-folder-title[data-path="docker" i] { color: #000000; background-color: #2496ed; }
+
+/* AI */
+.nav-folder-title[data-path$="/ai" i],
+.nav-folder-title[data-path="ai" i] { color: #ffffff; background-color: #e41c24; }
+
+/* Firefox */
+.nav-folder-title[data-path$="/firefox" i],
+.nav-folder-title[data-path="firefox" i] { color: #000000; background-color: #ff7139; }
+
+/* Gdscript */
+.nav-folder-title[data-path$="/gdscript" i],
+.nav-folder-title[data-path="gdscript" i] { color: #000000; background-color: #478cbf; }
+
+/* Git */
+.nav-folder-title[data-path$="/git" i],
+.nav-folder-title[data-path="git" i] { color: #000000; background-color: #bb4c38; }
+
+/* Html */
+.nav-folder-title[data-path$="/html" i],
+.nav-folder-title[data-path="html" i] { color: #000000; background-color: #e34f26; }
+
+/* Js */
+.nav-folder-title[data-path$="/js" i],
+.nav-folder-title[data-path="js" i] { color: #000000; background-color: #f7df1e; }
+
+/* Linux */
+.nav-folder-title[data-path$="/linux" i],
+.nav-folder-title[data-path="linux" i] { color: #000000; background-color: #fcc624; }
+
+/* Lua */
+.nav-folder-title[data-path$="/lua" i],
+.nav-folder-title[data-path="lua" i] { color: #000000; background-color: #000080; }
+
+/* Markdown */
+.nav-folder-title[data-path$="/markdown" i],
+.nav-folder-title[data-path="markdown" i] { color: #000000; background-color: #ffffff; }
+
+/* Mermaid */
+.nav-folder-title[data-path$="/mermaid" i],
+.nav-folder-title[data-path="mermaid" i] { color: #000000; background-color: #ff3785; }
+
+/* Obsidian */
+.nav-folder-title[data-path$="/obsidian" i],
+.nav-folder-title[data-path="obsidian" i] { color: #ffffff; background-color: #8B5CF6; }
+
+/* Php */
+.nav-folder-title[data-path$="/php" i],
+.nav-folder-title[data-path="php" i] { color: #ffffff; background-color: #777BB3; }
+
+/* Python */
+.nav-folder-title[data-path$="/python" i],
+.nav-folder-title[data-path="python" i] { color: #FFD43B; background-color: #306998; }
+
+/* Rust */
+.nav-folder-title[data-path$="/rust" i],
+.nav-folder-title[data-path="rust" i] { color: #000000; background-color: #dea584; }
+
+/* Sql */
+.nav-folder-title[data-path$="/sql" i],
+.nav-folder-title[data-path="sql" i] { color: #000000; background-color: #cc7832; }
+
+/* Sublime Text */
+.nav-folder-title[data-path$="/sublime text" i],
+.nav-folder-title[data-path="sublime text" i] { color: #000000; background-color: #ff9800; }
+
+/* Sylius */
+.nav-folder-title[data-path$="/sylius" i],
+.nav-folder-title[data-path="sylius" i] { color: #ffffff; background-color: #22B99A; }
+
+/* Symfony */
+.nav-folder-title[data-path$="/symfony" i],
+.nav-folder-title[data-path="symfony" i] { color: #ffffff; background-color: #000000; }
+
+/* Ts */
+.nav-folder-title[data-path$="/ts" i],
+.nav-folder-title[data-path="ts" i] { color: #ffffff; background-color: #3178C6; }
+
+/* Java */
+.nav-folder-title[data-path$="/java" i],
+.nav-folder-title[data-path="java" i] { color: #3a75b0; background-color: #f29111; }
+
+/* Ubuntu */
+.nav-folder-title[data-path$="/ubuntu" i],
+.nav-folder-title[data-path="ubuntu" i] { color: #ffffff; background-color: #E95420; }
+
+/* Windows */
+.nav-folder-title[data-path$="/windows" i],
+.nav-folder-title[data-path="windows" i] { color: #000000; background-color: #00a4ef; }
+
+/* SQLI */
+.nav-folder-title[data-path$="/sqli" i],
+.nav-folder-title[data-path="sqli" i] { color: #e0e0e0; background-color: #0f0e2b; }
+
+/* MacOs */
+.nav-folder-title[data-path$="/macos" i],
+.nav-folder-title[data-path="macos" i] { color: #000000; background-color: #999999; }
+
+/* Programmation */
+.nav-folder-title[data-path$="/programmation" i],
+.nav-folder-title[data-path="programmation" i] { color: #000000; background-color: #36963e; }
+
+/* Z_Def */
+.nav-folder-title[data-path$="/z_def" i],
+.nav-folder-title[data-path="z_def" i] { color: #070707; background-color: #e0e0e0; }
+
+/* Z_Note */
+.nav-folder-title[data-path$="/z_note" i],
+.nav-folder-title[data-path="z_note" i] { color: #e0e0e0; background-color: #070707; }
